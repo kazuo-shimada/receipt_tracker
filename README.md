@@ -1,7 +1,7 @@
-# SIVA: Smart Expense & Data Agent
+SMART INVENTORY VISION AGENT
 
 ## Overview
-SIVA (Smart Inventory & Vision Agent) is a locally hosted application designed to automate financial data entry and analysis. 
+SIVA is a locally hosted application designed to automate financial data entry and analysis. 
 
 For many businesses and individuals, tracking expenses means manually reading receipts and typing numbers into a spreadsheet. SIVA automates this entire workflow. You simply upload a photo of a receipt, and the application reads the text, extracts the relevant financial data, saves it to a database, and generates visual spending charts. 
 
