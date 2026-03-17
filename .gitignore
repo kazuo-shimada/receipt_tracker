@@ -1,0 +1,8 @@
+# Ignore the virtual environment
+receipt_env/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore personal financial data
+expenses.csv
