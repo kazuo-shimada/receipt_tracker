@@ -1,0 +1,9 @@
+easyocr
+gradio>=6.0.0
+opencv-python
+langchain-community
+langchain-core
+llama-cpp-python
+pandas
+matplotlib
+tabulate
