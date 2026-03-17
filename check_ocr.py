@@ -10,7 +10,7 @@ from datetime import datetime
 # --- SETUP ---
 DB_FILE = "expenses.csv"
 # Locked in your exact absolute path
-MODEL_PATH = "/Users/x/Documents/siva_env/Meta-Llama-3-8B-Instruct-Q4_K_M.gguf"
+MODEL_PATH = "INSERT MODEL PATH HERE"
 reader = easyocr.Reader(['en'], gpu=False)
 
 print("Loading Llama 3 Brain...")
